@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @jetndra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hey there! I'm Jetendra
 
-<!---
-jetndra/jetndra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+DevOps | Cloud | Kubernetes | AI/ML | Automation  
+
+💡 Passionate about scalable infrastructure and intelligent systems.  
+🛠️ Tools: AWS • EKS • Terraform • Jenkins • Helm • Datadog • Python  
+🧠 Exploring MLOps, observability, and platform engineering.  
+
+📫 [LinkedIn](https://www.linkedin.com/in/jetendralaha/) • [GitHub Projects](https://github.com/jetendralaha?tab=repositories)
